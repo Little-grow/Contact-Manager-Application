@@ -1,0 +1,15 @@
+D:\LevelOne\Contact Manager Application\bin\Debug\net6.0\Contact Manager Application.exe
+D:\LevelOne\Contact Manager Application\bin\Debug\net6.0\Contact Manager Application.deps.json
+D:\LevelOne\Contact Manager Application\bin\Debug\net6.0\Contact Manager Application.runtimeconfig.json
+D:\LevelOne\Contact Manager Application\bin\Debug\net6.0\Contact Manager Application.dll
+D:\LevelOne\Contact Manager Application\bin\Debug\net6.0\Contact Manager Application.pdb
+D:\LevelOne\Contact Manager Application\obj\Debug\net6.0\Contact Manager Application.csproj.AssemblyReference.cache
+D:\LevelOne\Contact Manager Application\obj\Debug\net6.0\Contact Manager Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\LevelOne\Contact Manager Application\obj\Debug\net6.0\Contact Manager Application.AssemblyInfoInputs.cache
+D:\LevelOne\Contact Manager Application\obj\Debug\net6.0\Contact Manager Application.AssemblyInfo.cs
+D:\LevelOne\Contact Manager Application\obj\Debug\net6.0\Contact Manager Application.csproj.CoreCompileInputs.cache
+D:\LevelOne\Contact Manager Application\obj\Debug\net6.0\Contact Manager Application.dll
+D:\LevelOne\Contact Manager Application\obj\Debug\net6.0\refint\Contact Manager Application.dll
+D:\LevelOne\Contact Manager Application\obj\Debug\net6.0\Contact Manager Application.pdb
+D:\LevelOne\Contact Manager Application\obj\Debug\net6.0\Contact Manager Application.genruntimeconfig.cache
+D:\LevelOne\Contact Manager Application\obj\Debug\net6.0\ref\Contact Manager Application.dll
